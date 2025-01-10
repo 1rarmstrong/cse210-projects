@@ -1,3 +1,4 @@
+My name is Riley Armstrong. It's nice to meet you.
 # cse210-student-template
 This is the starter code for students in CSE 210.
 
